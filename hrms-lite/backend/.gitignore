@@ -1,0 +1,5 @@
+__pycache__/
+.env
+hrms.db
+.DS_Store
+Thumbs.db
